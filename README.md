@@ -1,2 +1,2 @@
-# JupiterIBMWatson
-Jupiter Notebook on IBM Watson Studio
+# JupyterIBMWatson
+Jupyter Notebook on IBM Watson Studio
